@@ -12,4 +12,4 @@ spring:
         driver-class-name: org.h2.Driver
 
 app:
-  integration: false
+    eth.api.host: http://dev.loc:8545
