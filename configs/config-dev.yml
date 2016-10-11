@@ -1,0 +1,15 @@
+server:
+    port: 9090
+    address: 0.0.0.0
+
+spring:
+    h2.console.enabled: true
+
+    datasource:
+        url: jdbc:h2:mem:test
+        username: sa
+        password:
+        driver-class-name: org.h2.Driver
+
+app:
+  integration: false
