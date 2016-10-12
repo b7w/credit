@@ -1,3 +1,4 @@
+### Project ###
 target/
 !.mvn/wrapper/maven-wrapper.jar
 
@@ -13,3 +14,6 @@ target/
 *.iws
 *.iml
 *.ipr
+
+### Project ###
+configs/

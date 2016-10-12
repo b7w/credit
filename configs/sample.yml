@@ -12,4 +12,4 @@ spring:
         driver-class-name: org.h2.Driver
 
 app:
-    eth.api.host: http://dev.loc:8545
+    eth.api.host: http://localhost:8545
